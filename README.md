@@ -8,3 +8,11 @@ Ett relativt tomt program som kan utvidgas till att göra enkla matematiska ber�
 
 Lägg till operationer, sub (subtrahera), mult (multiplicera), div (dividera)!
 
+(tom rad)
+Funktioner att implementera:
+(tom rad)
+* minus
+* multiplikation
+* division
+* hjälpfunktion
+
